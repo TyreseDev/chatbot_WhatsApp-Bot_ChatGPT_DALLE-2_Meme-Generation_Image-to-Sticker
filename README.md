@@ -1,4 +1,4 @@
-# WhatsApp Bot with ChaGPT🔥, DALLE-2⚡,Meme Generation, and Image-to-Sticker Conversion
+# WhatsApp Bot with ChatGPT🔥, DALLE-2⚡,Meme Generation, and Image-to-Sticker Conversion
 
 This is a Node.js-based chatbot built using the whatsapp-web.js library that allows users to search the internet, get quotes, and create stickers from images. The chatbot can be used on any WhatsApp-enabled device.
 
